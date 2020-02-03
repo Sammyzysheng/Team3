@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Polynomial Regression and Step Functions
 
 You can use the [editor on GitHub](https://github.com/Sammyzysheng/Team3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
