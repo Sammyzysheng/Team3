@@ -1,6 +1,7 @@
 ## Polynomial Regression and Step Functions
 
 [lab 7.8.1](https://sammyzysheng.github.io/WM-MSBA-TEAM3-ML2-TP1/Lab7.8.1/) 
+
 [Exercise6](https://sammyzysheng.github.io/WM-MSBA-TEAM3-ML2-TP1/Exercise6) 
 
 ### Markdown
