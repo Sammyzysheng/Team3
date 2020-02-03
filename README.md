@@ -1,6 +1,6 @@
 ## Polynomial Regression and Step Functions
 
-[lab 7.8.1](https://sammyzysheng.github.io/WM-MSBA-TEAM3-ML2-TP1/Lab/) to maintain and preview the content for your website in 
+[lab 7.8.1](https://sammyzysheng.github.io/WM-MSBA-TEAM3-ML2-TP1/Lab7.8.1/) to maintain and preview the content for your website in 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
